@@ -6,7 +6,7 @@ $mensaje = $_POST['mensaje'];
 
 $fecha = 'Enviado:' . date("Y-m-d H:i:s") . "\n";
 
-$para = "luisgutierrez_1994@hotmail.com";
+$para = "luisgutierrezarone@gmail.com";
 $subject = "Contacto Ibmobiliari Formulario Contacto";
 $message = "Nombre : $nombre \n"
             ."Correo : $correo \n"
